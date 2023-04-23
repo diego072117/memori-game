@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(152, 86, 214);
+}
+
+h1{
+    display: flex;
+    color: #fff;
+    justify-content: center;
+}
+
+.score{
+    position: absolute;
+    max-width: fit-content;
+    background-color: #fff;
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    padding: 1em;
+    
+}
